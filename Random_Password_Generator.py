@@ -6,7 +6,7 @@ In this script i would like to be able to ask the user how long their password s
 # This is to import the random module as well as the string module
 import random, string
 # Comment to display who wrote the code
-print('\nThis is a random password generator developed by Burnblade\n')
+print('\nThis is a random password generator developed by Improve-Your-Mind\n')
 
 
 def main():
